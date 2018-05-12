@@ -38,5 +38,5 @@ $ cd spring-async && mvn -Dtest=SpringAsyncAppTests#loadTest3 test
 
 
 ## 참고자료
- - https://www.youtube.com/channel/UCcqH2RV1-9ebRBhmN_uaSNg/videos
- - https://www.youtube.com/watch?v=ExUfZkh7Puk
+ - 토비의 봄 TV: https://www.youtube.com/channel/UCcqH2RV1-9ebRBhmN_uaSNg/videos
+ - 토비의 봄 TV 9회 스프링 리액티브 프로그래밍 (5) 비동기 RestTemplate과 비동기 MVC/Serlvet: https://www.youtube.com/watch?v=ExUfZkh7Puk
