@@ -16,7 +16,7 @@ import lombok.extern.slf4j.Slf4j;
 
 @Slf4j
 @SpringBootApplication
-public class DemoApplication {
+public class SpringAsyncApp {
     @RestController
     public static class MyController {
 		@GetMapping("/hello1/{index}")
@@ -54,6 +54,6 @@ public class DemoApplication {
     }
 
     public static void main(String[] args) {
-        SpringApplication.run(DemoApplication.class, args);
+        SpringApplication.run(SpringAsyncApp.class, args);
     }
 }
