@@ -13,7 +13,6 @@
     - tomcat threads: 512개
 
 
-
 ## 실행
 
 ```bash
@@ -36,3 +35,8 @@ $ cd spring-async && mvn -Dtest=SpringAsyncAppTests#loadTest2 test
 # loadtest #3
 $ cd spring-async && mvn -Dtest=SpringAsyncAppTests#loadTest3 test
 ```
+
+
+## 참고자료
+ - https://www.youtube.com/channel/UCcqH2RV1-9ebRBhmN_uaSNg/videos
+ - https://www.youtube.com/watch?v=ExUfZkh7Puk
