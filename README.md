@@ -15,10 +15,14 @@
 ```bash
 # spring-async running 8080 port tomcat server
 $ cd spring-async && mvn spring-boot:run
+```
 
+```bash
 # spring-async-remote running 8081 port tomcat server
 $ cd spring-async-remote && mvn spring-boot:run
+```
 
+```bash
 # loadtest #1
 $ cd spring-async && mvn -Dtest=SpringAsyncAppTests#loadTest1 test
 
