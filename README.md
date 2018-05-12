@@ -2,6 +2,8 @@
 
 ## 프로젝트 구성
 
+<img src="/image1.png" width="400">
+
  - spring-async
     - 8080포트
     - LoadTest 실행하여 100개의 동시 접속 실행
@@ -9,6 +11,8 @@
  - spring-async-remote
     - 8081포트
     - tomcat threads: 512개
+
+
 
 ## 실행
 
